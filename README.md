@@ -18,7 +18,7 @@ Project made for Codecademy as part of the Full-Stack learning path.
 * Flexbox
 
 ## Page link
-
+https://jrompinelli.github.io/flexboxWeb/.
 
 ## Status
 Project is: _finished_.

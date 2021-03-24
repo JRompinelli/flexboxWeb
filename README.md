@@ -17,7 +17,7 @@ Project made for Codecademy as part of the Full-Stack learning path.
 * CSS3
 * Flexbox
 
-## Page link
+## Github Page
 https://jrompinelli.github.io/flexboxWeb/.
 
 ## Status
